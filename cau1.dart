@@ -16,14 +16,15 @@ void main(List<String> args) {
   l1.ram = 16;
 
   l1.display();
-  l1.id = 121;
-  l1.name = "Lenovo Legion 7";
-  l1.ram = 16;
-
-  l1.display();
-  l1.id = 122;
-  l1.name = "Lenovo Legion 5";
-  l1.ram = 16;
-  l1.display();
+  l2.id = 121;
+  l2.name = "Lenovo Legion 7";
+  l2.ram = 16;
+  print("_______");
+  l2.display();
+  l3.id = 122;
+  l3.name = "Lenovo Legion 5";
+  l3.ram = 16;
+  print("_______");
+  l3.display();
 
 }
