@@ -11,6 +11,8 @@ class Laptop{
 }
 void main(List<String> args) {
   Laptop l1 = Laptop();
+  Laptop l2 = Laptop();
+  Laptop l3 = Laptop();
   l1.id = 123;
   l1.name = "Xiaomi Mi Notebook Air";
   l1.ram = 16;
